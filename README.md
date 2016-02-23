@@ -1,2 +1,2 @@
-# jugza
-Java USer Group Zilina Slovakia
+# Java User Group Zilina Slovakia
+

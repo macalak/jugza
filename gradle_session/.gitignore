@@ -1,0 +1,10 @@
+presentation
+bin
+build_gradle
+.project
+.classpath
+.gradle
+.settings
+.idea
+*.class
+

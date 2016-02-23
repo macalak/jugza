@@ -1,0 +1,39 @@
+{
+  "version" : "1.0.1",
+  "name" : "gradle-example",
+  "number" : "1456229490837",
+  "type" : "GRADLE",
+  "buildAgent" : {
+    "name" : "Gradle",
+    "version" : "2.10"
+  },
+  "agent" : {
+    "name" : "Gradle",
+    "version" : "2.10"
+  },
+  "started" : "2016-02-23T13:11:27.302+0100",
+  "durationMillis" : 4242,
+  "principal" : "macalaki",
+  "artifactoryPrincipal" : "admin",
+  "artifactoryPluginVersion" : "Unknown",
+  "licenseControl" : {
+    "runChecks" : false,
+    "includePublishedArtifacts" : false,
+    "autoDiscover" : false,
+    "scopesList" : "",
+    "licenseViolationsRecipientsList" : ""
+  },
+  "buildRetention" : {
+    "count" : -1,
+    "deleteBuildArtifacts" : true,
+    "buildNumbersNotToBeDiscarded" : [ ]
+  },
+  "governance" : {
+    "blackDuckProperties" : {
+      "runChecks" : false,
+      "includePublishedArtifacts" : false,
+      "autoCreateMissingComponentRequests" : false,
+      "autoDiscardStaleComponentRequests" : false
+    }
+  }
+}
